@@ -1,6 +1,6 @@
-ftfy==6.3.1
+torch==2.5.1
+ftfy
 packaging
 regex
 tqdm
-torch==2.6.0
-torchvision==0.21.0
+torchvision
